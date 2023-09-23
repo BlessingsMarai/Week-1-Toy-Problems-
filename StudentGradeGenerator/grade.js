@@ -13,3 +13,4 @@ function calculateGrade(marks) {
     return 'Invalid input. Marks should be between 0 and 100.';
   }
 }
+module.exports = calculateGrade;
